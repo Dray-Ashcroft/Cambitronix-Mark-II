@@ -2,7 +2,7 @@
   <img src="assets/Dicot-Banner.png" alt="Cambitronix — Interactive Plant Anatomy Simulator" width="100%">
 </p>
 
-# 🌿 Cambitronix Mark II
+# 🌿 Cambitronix MK II
 
 ### *Interactive Plant Anatomy Simulator*
 
