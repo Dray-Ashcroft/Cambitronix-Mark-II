@@ -1,61 +1,53 @@
 <p align="center">
-  <img src="assets/Dicot-Banner.png" alt="Cambitronix Banner" width="100%">
+  <img src="assets/Dicot-Banner.png" alt="Cambitronix — Interactive Plant Anatomy Simulator" width="100%">
 </p>
 
-# 🌿 Cambitronix
+# 🌿 Cambitronix Mark II
 
-**Interactive Plant Anatomy Simulator**
+### *Interactive Plant Anatomy Simulator*
 
-An interactive HTML-based educational simulator for exploring the internal anatomy of dicot stems and roots through realistic transverse sections, tissue systems, and microscope-inspired visualizations.
+> **Cambitronix** is an interactive visualization exploring the internal anatomy of **dicot stems and roots** through transverse sections, tissue systems, and microscope-inspired botanical illustrations.
+>
+> 🌿 **Plant Anatomy** · 🔬 **Botany** · 🧬 **Plant Tissue Systems**
 
----
-
-## ✨ Features
-
-* **Interactive Anatomy:** Explore transverse sections (T.S.) of dicot stem and dicot root.
-* **Tissue System Visualization:** Understand Dermal, Ground, and Vascular tissue systems through intuitive color coding.
-* **Microscope-Inspired Graphics:** High-quality botanical illustrations designed to resemble textbook and laboratory observations.
-* **Educational Learning:** Built following NCERT Biology concepts with emphasis on biological accuracy.
-* **Interactive Interface:** Click, explore, and visualize plant tissues in an engaging browser-based environment.
-* **Responsive Design:** Optimized for desktop, tablet, and mobile devices.
+**🔬 [Explore the Simulation](YOUR-LINK-HERE)**
 
 ---
 
-## 🌱 Learning Objectives
+## ✦ Features
 
-* Identify tissues in dicot stem and root.
-* Compare stem and root anatomy.
-* Understand the organization of tissue systems.
-* Visualize xylem and phloem arrangement.
-* Strengthen practical understanding of plant anatomy.
+**🌱 Interactive Anatomy**  
+Explore transverse sections of **dicot stems and roots** through interactive anatomical visualizations.
 
----
+**🔬 Tissue System Visualization**  
+Identify dermal, ground, and vascular tissue systems through intuitive visual organization.
 
-## 🚀 Build & Hosting
+**🌿 Microscope-Inspired Graphics**  
+Explore detailed botanical illustrations inspired by textbook and laboratory observations.
 
-* **Repository:** GitHub
-* **Hosting:** Github Pages
-* **Frontend:** HTML, CSS & JavaScript
+**📚 Educational Visualization**  
+Explore plant anatomy through concepts aligned with **NCERT Biology** and biological accuracy.
 
----
-
-## 🛠️ Credits & Acknowledgments
-
-* **Claude Sonnet 5.0** — Debugging, architecture, and implementation support.
-* **OpenAI** — Base Image generation, Scientific validation, debugging, and logic refinement.
+**📱 Responsive Design**  
+Optimized for modern desktop, tablet, and mobile devices.
 
 ---
 
-## 👤 Author
+## 🧬 Core Concepts
 
-**Draven Ashcroft**
+**Dicot Stem · Dicot Root · Tissue Systems · Xylem · Phloem · Plant Anatomy · Transverse Sections**
 
-* M.Sc. Ag. Entomology
-* ASRB NET
-* DIPS Chain of Institutions
+---
+
+## ⚙️ Technology
+
+**HTML · CSS · JavaScript**
+
+**Repository:** GitHub & Codeberg  
+**Hosting:** Cloudflare
 
 ---
 
 ## 📜 License
 
-GPL-3.0
+Distributed under the **GNU General Public License v3.0 (GPL-3.0)**.
