@@ -6,9 +6,9 @@
 
 ### *Interactive Plant Anatomy Simulator*
 
-> **Cambitronix** is an interactive visualization exploring the internal anatomy of **dicot stems and roots** through transverse sections, tissue systems, and microscope-inspired botanical illustrations.
+> **Cambitronix** is an interactive visualization of **dicot stems and roots** through transverse sections, tissue systems, and microscope-inspired botanical illustrations.
 >
-> 🌿 **Plant Anatomy** · 🔬 **Botany** · 🧬 **Plant Tissue Systems**
+ 🌿 **Plant Anatomy** · 🔬 **Botany** · 🧬 **Plant Tissue Systems**
 
 **🔬 [Explore the Simulation](YOUR-LINK-HERE)**
 
